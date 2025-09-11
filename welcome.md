@@ -9,7 +9,7 @@ int main() {
 
 ```
 
-##1B-program pertamaku
+## 1B-program pertamaku
 ```cpp
 #include <iostream>
 
